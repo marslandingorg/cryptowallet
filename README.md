@@ -1,5 +1,5 @@
 # cryptowallet
-Mars Landing is on a mission to accelerate the world’s transition to cryptocurrency. Through the Wpay Mobile App and Exchange, you can buy cryptocurrencies and stablecoins, such as Ethereum (ETH), and Binance (BNB). Our crypto wallet consists of financial services, payment solutions, a world-class trading platform, and DeFi (decentralised finance) offerings.
+Mars Landing is on a mission to accelerate the world’s transition to cryptocurrency. Through the TIU Mobile App and Exchange, you can buy cryptocurrencies and stablecoins, such as Ethereum (ETH), and Binance (BNB). Our crypto wallet consists of financial services, payment solutions, a world-class trading platform, and DeFi (decentralised finance) offerings.
 
 **Your Keys, Your Crypto.**
 
